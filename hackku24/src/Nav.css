@@ -1,0 +1,12 @@
+.navbar {
+  width: 100vw;
+  display: flex;
+  gap: 5rem;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--off-black);
+}

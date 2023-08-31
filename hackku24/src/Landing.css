@@ -1,0 +1,19 @@
+.landing {
+  width: 100vw;
+  height: 100vh;
+  max-width: 100%;
+  background-color: var(--blue-lt);
+}
+
+.divided-title {
+  text-align: center;
+}
+
+.landing-text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 80vh;
+}

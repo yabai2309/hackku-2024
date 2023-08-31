@@ -1,0 +1,33 @@
+.full-width {
+  width: 100vw;
+  max-width: 100%;
+}
+
+.sun {
+  max-width: 10vw;
+  top: 4vh;
+  left: 8vw;
+}
+
+.clouds {
+}
+
+.buildings {
+  max-width: 35vw;
+  top: 54.5vh;
+  right: 0;
+}
+
+.hills {
+  top: 65vh;
+}
+
+.ducks {
+  max-width: 45vw;
+  top: 65vh;
+  left: 8vw;
+}
+
+.flowers {
+  top: 70vh;
+}
